@@ -32,7 +32,8 @@ MANIFEST
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
 *.manifest
 *.spec
-
+#.Ds_Store
+.Ds_Store
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
